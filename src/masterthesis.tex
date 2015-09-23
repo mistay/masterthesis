@@ -1,7 +1,96 @@
-evauluierung bestehender systeme (quelle: 1)
-- trakla
-- animal
-- jawaa
+\documentclass[a4paper]{article}
 
-References:
-[1] Slavomir Simonak. Using algorithm visualizations in computer science education. Central European Journal of Computer Science, page 184, 2014.
+\usepackage[english]{babel}
+\usepackage{verbatim}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{url}
+\usepackage{enumitem, hyperref}
+
+\title{Ein Versuch Algorithmen und Datenstrukturen in der Lehre der angewandten Computerwissenschaften grafisch zu simulieren}
+\author{Armin Langhofer}
+\date{\today}
+\makeatletter
+
+\usepackage[ngerman]{datetime}
+\newdateformat{mygermandateformat}{\THEDAY{ten }\monthnamengerman[\THEMONTH] \THEYEAR}
+\newdateformat{mygermanmonthformat}{\monthnamengerman[\THEMONTH] \THEYEAR}
+
+\begin{document}
+\iffalse
+\maketitle 
+\fi
+
+\begin{titlepage}
+	\centering
+	\includegraphics[width=0.5\textwidth]{uni_salzburg_logo}\par
+	{\Large Master Degree Angewandte Informatik\par}
+	\vspace{1.5cm}
+	
+	{\huge \@title \par}
+	\vspace{10cm}
+	{\Large \@author\space im \mygermanmonthformat\@date\par}
+	\vspace{2cm}
+	\vfill
+	supervised by\par
+	 Ao.Univ.Prof. Mag.Dr. Helge \textsc{Hagenauer}
+
+	\vfill
+\end{titlepage}
+
+
+\newpage
+
+\tableofcontents
+
+\newpage
+
+\section{Einleitung}
+
+\section{Anforderungen}
+Ein System soll erarbeitet werden bei dem man einen Algorithmus grafisch veranschaulichen kann. Dabei soll man den Ablauf
+\begin{enumerate}
+\item steuern und
+\item visualisieren
+\end{enumerate}
+k\"onnen.
+
+\subsection{Steuerung}
+Es soll möglich sein, den Algorithmus im Einzelschnitt abarbeiten zu lassen. Folgende Funktionen sind denkbar:
+\begin{enumerate}
+\item Einzelschritt (vor)
+\item Zur\"uck
+\end{enumerate}
+
+\subsection{Visualisierung}
+Es soll möglich sein, den Algorithmus im jeweiligen Zustand (grafisch) anzuzeigen. Die Visualisierung ist vom Algorithmus abh\"angig, denkbar sind:
+\begin{enumerate}
+\item B\"aume
+\item Listen
+\end{enumerate}
+
+\section{Existierende Systeme}
+
+Folgende bereits existierenden Systeme\cite{uavicse} werden untersucht:
+\begin{enumerate}
+\item \label{trakla} TRAKLA2 \cite{trakala2}
+\item \label{jawaa2} JAWAA \cite{jawaa2}
+\item \label{animal} ANIMAL
+
+\end{enumerate}
+
+\subsection{Trakala}
+
+
+\subsection{Jawaa2}
+
+
+\subsection{Animal}
+Dieses System war im Zeitraum der Entstehung dieser Arbeit nicht (mehr) verf\"ugbar.
+
+\newpage
+\bibliographystyle{plain}
+\bibliography{refs}
+
+\end{document}
