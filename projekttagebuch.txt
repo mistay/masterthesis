@@ -1,0 +1,21 @@
+
+Gespraechsnotiz vom 22.9.2015
+1. Termin Helge Hagenauer Besprechung Master Arbeit.
+
+Modus:
+- 2 bis 3 Wo "Sprintmeetings" bei dem immer wieder neuer Termin vereinbart wird (dadurch ist Urlaub möglich)
+- Dauer ca. 1 Semester "Vollzeit", 2 Semester "Halbzeit" u.s.w.
+
+Inhalt:
+- GesamtZiel: Visualisierung Algo & Strukturen
+- Zwischenziele finden
+- Masterarbeit schriftlich lt. Anforderungen Uni Gesetz.
+
+Vorgehensweise:
+- Zieldefinition finden, z.B. "Visualisierung Algo für Lehre": Block mit (Pseudo)Code, Block mit Grafik, Block mit Bedienelementen (Stop, Next, Prev, ..)
+- aus jeweils aktueller Sicht Zeitplanung finden
+- muss am Ende dann nicht eingehalten werden wenn sich während den Arbeiten ein anderer Weg für besser einschätzen lässt
+- 1. Recherche was es derzeit gibt, Aufstellung, Gegenüberstellung
+- 2. Abängig von Aufbau auf bestehendes / neues System: Definition eines Zieles (bestehendes System: mehr Detailarbeit, neues System: Schaffen einer Grundlage/Baukasten)
+
+
