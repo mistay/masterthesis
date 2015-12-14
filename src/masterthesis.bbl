@@ -1,0 +1,21 @@
+\begin{thebibliography}{1}
+
+\bibitem{animal}
+Animal home page, available: http://algoanim.info/animalav/.
+\newblock http://algoanim.info/AnimalAV/.
+
+\bibitem{jawaa2}
+The {JAWAA} homepage.
+\newblock http://www.cs.duke.edu/csed/jawaa2.
+
+\bibitem{trakala2}
+{TRAKLA2} -- software project.
+\newblock http://www.cse.hut.fi/en/research/SVG/TRAKLA2/.
+
+\bibitem{uavicse}
+Slavomir Simonak.
+\newblock Using algorithm visualizations in computer science education.
+\newblock In {\em Central European Journal of Computer Science}, pages
+  183--190. Springer Verlag, 2014.
+
+\end{thebibliography}

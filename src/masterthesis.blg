@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: masterthesis.aux
+The style file: plain.bst
+Database file #1: refs.bib
+Warning--to sort, need author or key in jawaa2
+Warning--to sort, need author or key in trakala2
+Warning--to sort, need author or key in animal
+You've used 4 entries,
+            2118 wiz_defined-function locations,
+            513 strings with 4394 characters,
+and the built_in function-call counts, 928 in all, are:
+= -- 94
+> -- 10
+< -- 1
++ -- 7
+- -- 2
+* -- 38
+:= -- 118
+add.period$ -- 10
+call.type$ -- 4
+change.case$ -- 13
+chr.to.int$ -- 0
+cite$ -- 7
+duplicate$ -- 44
+empty$ -- 111
+format.name$ -- 2
+if$ -- 225
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 1
+newline$ -- 20
+num.names$ -- 2
+pop$ -- 30
+preamble$ -- 1
+purify$ -- 9
+quote$ -- 0
+skip$ -- 43
+stack$ -- 0
+substring$ -- 53
+swap$ -- 14
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 16
+warning$ -- 3
+while$ -- 5
+width$ -- 5
+write$ -- 35
+(There were 3 warnings)

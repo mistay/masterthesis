@@ -19,3 +19,6 @@ Vorgehensweise:
 - 2. Abängig von Aufbau auf bestehendes / neues System: Definition eines Zieles (bestehendes System: mehr Detailarbeit, neues System: Schaffen einer Grundlage/Baukasten)
 
 
+20151211 (2h):
+- evaluated jawaa's and animal's website (down and not working)
+

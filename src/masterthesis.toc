@@ -1,0 +1,9 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Einleitung}{2}{section.1}
+\contentsline {section}{\numberline {2}Anforderungen}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Steuerung}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Visualisierung}{2}{subsection.2.2}
+\contentsline {section}{\numberline {3}Existierende Systeme}{2}{section.3}
+\contentsline {subsection}{\numberline {3.1}Jawaa}{2}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Trakala2}{2}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Animal}{2}{subsection.3.3}
